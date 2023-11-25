@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\bin\Debug\net6.0\AppFinal.deps.json
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\bin\Debug\net6.0\AppFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\bin\Debug\net6.0\AppFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\bin\Debug\net6.0\DomainFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\bin\Debug\net6.0\DomainFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.csproj.CopyComplete
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\refint\AppFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\AppFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\AppFinal\obj\Debug\net6.0\ref\AppFinal.dll

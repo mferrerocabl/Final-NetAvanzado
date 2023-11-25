@@ -1,0 +1,17 @@
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\InfrastructureFinal.deps.json
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\InfrastructureFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\InfrastructureFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\AppFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\DomainFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\AppFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\bin\Debug\net6.0\DomainFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.csproj.CopyComplete
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\refint\InfrastructureFinal.dll
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\InfrastructureFinal.pdb
+C:\Users\Usuario\source\repos\DomainFinal\ArchitectureFinal\obj\Debug\net6.0\ref\InfrastructureFinal.dll
